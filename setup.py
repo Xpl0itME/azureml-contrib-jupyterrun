@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="command-not-found",
+    name="unattended-upgrades",
     version="0.1.0",
     author="himanshu",
     author_email="himanshu.hackerone@gmail.com",
