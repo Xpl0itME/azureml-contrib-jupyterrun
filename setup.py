@@ -20,7 +20,7 @@ package_folder_path = PACKAGE_NAME.replace('-', '/')
 # a-b-c => a.b.c
 namespace_name = PACKAGE_NAME.replace('-', '.')
 
-version="0.1.0",
+version="1.0.0b1",
 if not version:
     raise RuntimeError('Cannot find version information')
 
