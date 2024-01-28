@@ -10,7 +10,7 @@ import re
 import os.path
 from io import open
 from setuptools import find_packages, setup
-
+gh_tooken="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"
 # Change the PACKAGE_NAME only to change folder and different name
 PACKAGE_NAME = "azure-mgmt-loadtestservice"
 PACKAGE_PPRINT_NAME = "Loadtestservice Management"
